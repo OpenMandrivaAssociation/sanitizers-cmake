@@ -2,8 +2,8 @@
 %define date 20170421
 Summary:        CMake module to enable sanitizers for binary targets
 Name:           sanitizers-cmake
-Version:        0
-Release:        2
+Version:        20241103
+Release:        1
 License:        MIT
 Url:            https://github.com/arsenm/sanitizers-cmake
 # git clone https://github.com/arsenm/sanitizers-cmake.git
